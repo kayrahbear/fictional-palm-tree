@@ -10,8 +10,8 @@ applications:
       phases:
         build:
           commands:
-            - npm install
-            - npx quasar build
+            - yarn install
+            - yarn quasar build
       artifacts:
         baseDirectory: dist/spa
         files:

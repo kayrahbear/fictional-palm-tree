@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mobilemaint-dev-181529-authRole",
+      "UnauthRoleArn": "arn:aws:iam::337220435894:role/amplify-mobilemaint-dev-181529-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::337220435894:role/amplify-mobilemaint-dev-181529-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mobilemaint-dev-181529-deployment",
+      "UnauthRoleName": "amplify-mobilemaint-dev-181529-unauthRole",
+      "StackName": "amplify-mobilemaint-dev-181529",
+      "StackId": "arn:aws:cloudformation:us-east-1:337220435894:stack/amplify-mobilemaint-dev-181529/18721a00-cc00-11ec-bcb4-0e7e3a12b731",
+      "AmplifyAppId": "d2oxl5u6230gxa"
+    }
+  }
+}

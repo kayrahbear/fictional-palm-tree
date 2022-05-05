@@ -10,17 +10,19 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
+    "@aws-amplify/ui-components": "^1.9.6",
     "@quasar/extras": "^1.0.0",
+    "aws-amplify": "^4.3.21",
     "core-js": "^3.6.5",
     "quasar": "^1.0.0"
   },
   "devDependencies": {
+    "@quasar/app": "^2.0.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^7.21.0",
-    "eslint-webpack-plugin": "^2.4.0",
-    "eslint-plugin-vue": "^7.7.0",
     "eslint-config-prettier": "^8.1.0",
-    "@quasar/app": "^2.0.0"
+    "eslint-plugin-vue": "^7.7.0",
+    "eslint-webpack-plugin": "^2.4.0"
   },
   "browserslist": [
     "last 10 Chrome versions",
